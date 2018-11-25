@@ -1,0 +1,8 @@
+---
+layout: post
+title:  Summary
+date:   2018-11-24 21:00:00
+---
+## Sociocultural Context
+
+As the environmental movement gained traction in Western society and the concerns surrounding climate change became increasingly globalized, attempts were made to reduce global carbon emissions. Many people in the United States felt that the new regulations were a direct attack on the capitalist interests of the nation. Thus, a countermovement was born. Two main organizations were responsible for the perpetuation of mistrust in climatic concerns: conservative media and Conservative Think Tanks (CTT). CTT’s are organisations clandestinely funded by corporate America to counter research a topic like global warming and promote their own agenda while appearing to be an objective partie. Media’s coverage of climate change impacts how consumers receive information and thus perceive the issue as a whole based on for whom the media provides a platform. There is a clear dichotomy between non-conservatives and conservatives regarding their belief in global warming, where the former are likely to trust science than the latter. Trust in the scientific community is shaped by the shared cultural values of a given social group and the media’s contextualization of environmental problems molds the consumers’ worldview. Specifically, conservative media actively attempts to discredit scientific research by emphasizing the values of the average conservative: capital. Media’s role in the public’s understanding of scientific questions is to translate the information for the comprehension of the laity. This role gives the media the power to control and shape the narrative into one that favours their values.

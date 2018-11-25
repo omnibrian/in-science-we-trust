@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="home">
+	<div class="site-intro">
+		<h1>Group 65</h1>
+		<h2>Chris Forbes, Lucie Vézina, Sarah Jerome, Brian LeBlanc</h2>
+	</div>
+	<h4 class="header-reference">Hmielowski, J., Feldman, L., Myers, T., Leiserowitz & Maibach, E. (2014). An attack on science? Media use, trust in scientists, and perceptions of global warming. <i>Public Understanding of Science,</i> 23(7):866-883.</h4>
+
+	<ul class="post-list">
+		{% for post in site.posts %}
+		<li>
+			<article>
+				<header class="post-header">
+					<!-- <div>
+						<span>Posted on </span><span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+					</div> -->
+
+					<h2>
+						<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+					</h2>
+				</header>
+
+				<div class="entry-content">
+					{{ post.content }}
+				</div>
+			</article>
+		</li>
+		{% endfor %}
+	</ul>
+
+</div>

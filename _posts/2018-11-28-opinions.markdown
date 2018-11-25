@@ -1,0 +1,37 @@
+---
+layout: post
+title:  Opinions
+date:   2018-11-24 19:00:00
+---
+## Group Thoughts
+
+A topic such as climate change is often misrepresented in the media, where debates are had between two people: believers and non-believers of climate change. This leads to the assumption that there is an even distribution of people who believe in global warming and those who do not. However, approximately 97% of published scientific literature supports the notion of climate change, a ratio that is much different than the 1:1 portrayed on television (Cook et al. 2016). This fact does not represent the trends in climate change belief across the United States that is illustrated in the the Interactive Results Map below. The impact of conservative media on the general public’s trust in science and thus their belief in climate change can be represented in a feedback loop as in Figure 2.
+
+The article was relatively easy to follow with a few redundancies that could have been further developed rather than repeated. Had the authors included from which surveys they gathered the data, there would have been better comprehension regarding the type of questions asked and in which direction they could go. We connected the article to the following Big Ideas:
+
+1.1 - _Earth scientists find solutions to society's needs._ The topic studied in the article was climate change, a phenomenon that directly impacts everyone on Earth. With impending devastating global changes, it is more and more essential for scientists to communicate their findings and their projected solutions to solve the issues. This article describes how this process of communication - and more importantly the ways in which the public receives it - is being impeded by conservative media.
+
+1.3 - _Earth science investigations take many different forms._ The study gathered data from various surveys and compiled them into a comprehensive paper. The researchers could have gone a step further and conducted focus groups among people who share common values (either the type of media they consume or their belief in climate change) and discuss the source of their worldviews.
+
+1.5 - _Earth scientists use their understanding of the past to forecast Earth’s future._ This allows the scientific community the ability to infer potential changes in the climate and take the necessary measures to combat the effects of global warming. The article discusses how the disintegrating trust in science promotes lack of confidence in any scientific findings regarding a changing climate.
+
+7.10 - _Earth scientists help society move toward greater sustainability._ As the depletion of Earth’s natural resources becomes increasingly problematic, scientists strive to find new and innovative ways for western society to continue its practices. The article describes how the scientific community attempts to make the public understand where the Earth’s conditions are headed and how we can circumvent the challenges brought on by climate change. This is made difficult by conservative media discourages the public from trusting scientists and, by proxy, their findings. Moving to a more sustainable future is more and more challenging as a result.
+
+9.9 - _An Earth-science-literate public, informed by current and accurate scientific understanding of Earth, is critical to the promotion of good stewardship, sound policy, and international cooperation._ As the conservative media’s influence on the public’s trust in science gains traction, there is less incentive for the average person to become literate in scientific papers, thereby not allowing them to stay in informed on the goings-on of global warming.
+
+Furthermore, we feel that the surveys could have explored the various variables (race, gender, age, religiosity, average income, education levels) and their impacts on an individual’s beliefs in global warming. The article offers a better understanding in the discrepancy of beliefs and values held by conservatives and non-conservatives, specifically the values that impact belief in climate change and views on resource usage.
+
+![Interactive Results Map]({{ site.baseurl }}/assets/results_map.png)
+_[Interactive Results Map](http://climatecommunication.yale.edu/visualizations-data/ycom-us-2018/?est=happening&type=value&geo=county). Distribution map of belief in global warming from a survey conducted at Yale University in 2018 (Yale Program on Climate Change Communication 2018). A link to this interactive map can be found [here](http://climatecommunication.yale.edu/visualizations-data/ycom-us-2018/?est=happening&type=value&geo=county)._
+
+![Figure 2]({{ site.baseurl }}/assets/feedback_loop.png)
+
+_Figure 2. Reinforcing feedback loop illustrating the influence of conservative media, trust in science, and CTT’s contributing to skepticism in climate change._
+
+## Author's Thoughts
+
+We contacted the main author about his paper and asked him his thoughts on what he might have done differently looking back on the study today. He replied with the following:
+
+1. It would have been good to have more items measuring trust in scientists. I believe we only had one item measuring that concept. It’s always better to have more items. Therefore, adding two or three more items to measure trust would be something I would change.
+2. I would change the time between surveys. If I recall correctly, the time between the first and second wave was pretty long [approximately 2]. It’s usually better to have surveys be closer to each other. The longer the gap increase the chances of other things affecting the outcome. Although we found over-time effects, the significant time gap means other things may have affected the outcomes of interest.
+3. The last would be adding one more wave of data. The model we have is good, but might have been better to see if media at Wave 1 affected trust at Wave 2, which then affected attitudes/beliefs at Wave 3. Right now, all of that is between the two waves we have.(J. Hmielowski, personal communications, October 30, 2018)

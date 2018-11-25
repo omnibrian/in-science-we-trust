@@ -1,0 +1,24 @@
+---
+layout: post
+title:  Testing and Results
+date:   2018-11-24 20:00:00
+---
+## Hypotheses and Testing
+
+Based on the sociocultural background of media’s influence on the average consumer’s trust in scientists and belief in global warming, Hmielowski and colleagues postulated multiple hypotheses. Essentially, they believed that if conservative media promotes distrust in scientists, then there will be a decrease in the general public’s belief in global warming. Therefore, trust in scientists becomes a mediating factor as illustrated in Figure 1.
+
+Then, the researchers compiled multi-wave surveys that used both phone and online questionnaires. They evaluated which media source was most used by participants, their level of trust in scientists, and the level of belief in global warming.
+
+![Figure 1]({{ site.baseurl }}/assets/article_figure2.png)
+
+_Figure 1. Diagram demonstrating the trust in scientists as mediating factor of the type of media consumed and belief in global warming (Hmielowski_ et al. _2014)._
+
+## Results and Ramifications
+
+The outcomes of the study showed that increased consumption of conservative media was associated with low levels of belief in climate change as well as low levels of trust in scientists. Conversely, increased consumption of non-conservative media was associated with higher levels of certainty that global warming was happening and higher levels of trust in scientists. The researchers took various social factors (i.e. race, gender, religiosity) into account and corrected them to make sure there were no discrepancies in the comparisons made which is represented in Table 1.
+
+The study found results consistent with previous findings, expanding on the data by adding trust in scientists as a mediating variable to give a more comprehensive explanation regarding media use and belief in climate change. The researchers acknowledged that internal factors could also contribute to the polarization on climate change as well as the need to analyze any other institutional trust discrepancies contributing to the level of certainty that global warming is happening. Furthermore, the authors state the importance of scientists defending their credibility to the general public as an effort to prevent any further mistrust in the scientific community. This study highlights the dichotomous stance on global warming in the US and the consequences this has on policy making.
+
+_Table 1. Factors that were taken into account to correct for any discrepancies between data (Hmielowski_ et al. _2014)._
+
+![Table 1]({{ site.baseurl }}/assets/article_table2.jpg)
